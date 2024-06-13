@@ -19,11 +19,11 @@
   "homepage": "https://github.com/ME-Studio/portfolio-1.0#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "ejs": "^2.5.7",
+    "ejs": "^3.1.10",
     "express": "^4.16.2",
     "faker": "^4.1.0"
   },
   "devDependencies": {
-    "nodemon": "^1.14.11"
+    "nodemon": "^3.1.3"
   }
 }
